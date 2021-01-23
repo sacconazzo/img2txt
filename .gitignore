@@ -1,0 +1,6 @@
+node_modules
+*traineddata
+yarn.lock
+package-lock.json
+
+res/passport.jpg
